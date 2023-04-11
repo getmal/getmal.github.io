@@ -1,0 +1,4 @@
+https://getmal.github.io/getmal/hello-world.html
+https://getmal.github.io/categories/index.html
+https://getmal.github.io/tags/index.html
+https://getmal.github.io/
